@@ -1,5 +1,5 @@
 # azure-terraform-blueprint
 
-configuration:
-implementation:
-pipelines:
+configuration:  
+implementation:  
+pipelines:  
